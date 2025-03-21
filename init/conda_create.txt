@@ -1,1 +1,1 @@
-conda create -n projetia python=3.12 jupyterlab numpy pandas matplotlib seaborn missingno -c anaconda -c conda-forge -y
+conda create -n projetia python=3.12 jupyterlab numpy pandas matplotlib seaborn missingno openpyxl -c anaconda -c conda-forge -y
